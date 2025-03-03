@@ -1,0 +1,40 @@
+1. Hafta: JavaScript Temelleri ve Node.js'e Giriş
+JavaScript temel kavramlarını tekrar edin veya öğrenin.
+Node.js'i bilgisayarınıza kurun ve temel komutları öğrenin.
+"Merhaba Dünya" gibi basit Node.js uygulamaları yazın.
+
+2. Hafta: Node.js Modülleri ve npm
+Node.js'in temel modüllerini (örneğin, fs, http) öğrenin.
+npm kullanarak kütüphaneleri projelerinize eklemeyi öğrenin.
+Basit bir web sunucusu oluşturun.
+3. Hafta: Asenkron Programlama ve API'ler
+
+Asenkron programlamanın ne olduğunu ve nasıl çalıştığını öğrenin.
+Promise'ler ve async/await gibi asenkron yapıları kullanmayı öğrenin.
+Basit bir API'ye istek gönderme uygulaması yapın.
+4. Hafta: Dialogflow ve Node.js Entegrasyonu
+
+Dialogflow'un ne olduğunu ve nasıl çalıştığını öğrenin.
+Dialogflow'da basit bir agent oluşturun.
+Node.js kullanarak Dialogflow'a webhook entegrasyonu yapın.
+Dialogflow ES ve Dialogflow CX arasındaki farkı öğrenin.
+5. Hafta ve Sonrası: Proje Geliştirme ve İleri Konular
+
+Kendi Dialogflow projenizi geliştirmeye başlayın.
+Veritabanı entegrasyonu, gelişmiş API kullanımı gibi ileri konuları öğrenin.
+Öğrenmiş olduğunuz konuları düzenli olarak tekrar edin.
+3. Öğrenme Sırası ve Tekrar:
+
+Öğrenme Sırası:
+JavaScript Temelleri
+Node.js Temelleri
+npm ve Modüller
+Asenkron Programlama
+API Kullanımı
+Dialogflow ve Node.js Entegrasyonu
+Proje Geliştirme
+
+Tekrar:
+Öğrendiğiniz konuları düzenli olarak tekrar edin.
+Her hafta sonu, o hafta öğrendiğiniz konuları gözden geçirin.
+Pratik yaparak ve projeler geliştirerek öğrendiklerinizi pekiştirin.
